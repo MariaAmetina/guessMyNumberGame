@@ -2,7 +2,7 @@
   "name": "guess_my_number",
   "version": "1.0.0",
   "description": "game",
-  "main": "script.js",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
